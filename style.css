@@ -1,0 +1,30 @@
+
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+  }
+
+  .location {
+    height: 48px;
+    width: 100%;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #d1d1d1;
+  }
+
+.srch {
+    height: 48px;
+    width: 80%;
+    margin-top: -5px;
+    margin-left: -7px;
+    outline: none;
+    border-radius: 5px;
+    border: 1px solid #d1d1d1;
+  }
+
+.img-srch {
+    margin-left: -54px;
+    margin-top: -2.5px;
+}
+
